@@ -1,3 +1,7 @@
+> Academic Repository URI: https://reunir.unir.net/handle/123456789/12261
+
+
+
 # Master's Degree Thesis
 
 This Master's Degree Thesis, made for my Master's Degree in Informatic Security, consists in the application of a malware analysis methodology to a real-world ransomware sample. This document gives a general view about malware analysis and the evolution of different types of malware, focusing in ransomware, and develops a full experiment consisting in applying a sistematic methodology to fully analize the mentioned sample. The realized experiment is an example of a real-world malware analysis, using the different tools and techniques used by professional malware analysts on a daily basis.
